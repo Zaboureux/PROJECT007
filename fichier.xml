@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<note>
-  <to>Utilisateur</to>
-  <from>Git</from>
-  <heading>Exemple</heading>
-  <body>Ceci est un fichier XML exemple.</body>
-  <footer>Merci d'utiliser Git.</footer>
-</note>
