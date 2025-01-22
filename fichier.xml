@@ -4,4 +4,5 @@
   <from>Git</from>
   <heading>Exemple</heading>
   <body>Ceci est un fichier XML exemple.</body>
+  <footer>Merci d'utiliser Git.</footer>
 </note>
